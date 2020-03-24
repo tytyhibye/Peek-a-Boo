@@ -1,5 +1,5 @@
 img {
-  
+  width: 400px;
 }
 #initially-showing {
   display: none;
@@ -12,5 +12,12 @@ img {
   color: #960e8f; 
 }
 .clickable:hover {
+  text-decoration: underline;
+}
+.clickypoo {
+  cursor: pointer;
+  color: #960e8f; 
+}
+.clickypoo {
   text-decoration: underline;
 }
