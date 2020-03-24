@@ -1,3 +1,17 @@
 .cat-showing {
   display: none;
 }
+p {
+  cursor: pointer;
+  color: #960e8f;
+}
+p:hover {
+  text-decoration: underline;
+}
+.clickable {
+  cursor: pointer;
+  color: #960e8f; 
+}
+.clackable:hover {
+  text-decoration: underline;
+}
