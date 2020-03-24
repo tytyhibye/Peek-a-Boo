@@ -5,6 +5,6 @@ $(document).ready(function() {
   });
   $(".clickypoo").click(function() {
     $("#initially-shown").slideToggle();
-    $("initially-hidden").toggle();
+    $("#initially-hidden").toggle();
   })
 });
