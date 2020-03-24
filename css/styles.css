@@ -1,4 +1,10 @@
+img {
+  
+}
 #initially-showing {
+  display: none;
+}
+#initially-shown {
   display: none;
 }
 .clickable {
